@@ -17,7 +17,7 @@ tags:
 Lorem markdownum vomit, palmas si palmas contra atque, rotarum demas *voca*
 velaque, conpescuit tamen, numquam timuitque. Ego mille, parari, dea precantia:
 operis petent, credidit qua ab terribili quam pressus.
-```js
+```javascript
     home = clickHardening;
     if (arp_nosql < refresh_ipad(mac, petabyteArtOem, password)) {
         bigBing = 5;
