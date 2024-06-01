@@ -5,8 +5,8 @@ description: Trying to create a simple post to be rendered in my React Website
 startDate: 2021-03-01
 endDate: 2024-04-01
 draft: true
-href=#
-slug: mission-societe-general
+href: #
+slug: 2-mission-societe-general
 imgLink: /assets/sg.jpg
 stack:
   - Python
