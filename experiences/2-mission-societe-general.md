@@ -1,7 +1,6 @@
 ---
 role: Software Engineer
 company: Société Général
-description: Trying to create a simple post to be rendered in my React Website
 startDate: 2021-03-01
 endDate: 2024-04-01
 draft: true
