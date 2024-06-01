@@ -4,7 +4,7 @@ company: Société Général
 startDate: 2020-03-01
 endDate: 2020-11-01
 draft: true
-href=#
+href: #
 slug: 1-mission-societe-general
 imgLink: /assets/sg.jpg
 stack:
