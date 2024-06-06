@@ -32,4 +32,5 @@ tasks:
   - Designed and developed Rest APIs to expose backend capabilities.
   - Deployed and maintained a continuous delivery and deployment pipelines.
 description: To optimize and monitor the operational costs of internal service offerings at SG by its partners, and to provide a modern system for invoice management, the DDS/GSO team is responsible for developing tools that collect and process data to achieve these goals, as well as tracking the financial aspects of the usage of these offerings.
+link: https://www.societegenerale.com/
 ---
