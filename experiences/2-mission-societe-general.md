@@ -3,7 +3,7 @@ role: Software Engineer
 company: Société Général
 startDate: 2021-03-01
 endDate: 2024-04-01
-draft: true
+draft: false
 href: #
 slug: 2-mission-societe-general
 imgLink: /assets/sg.jpg
