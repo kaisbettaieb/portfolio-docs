@@ -23,5 +23,6 @@ tasks:
   - Developed REST APIs to expose the capabilities of an assistant bot.
   - Developed lambda functions to extract, classify and load github repositories issues.
   -  Maintained CI/CD pipelines.
-description: Set up an intelligent chatbot that can answer developers' questions based on a knowledge base. 
+description: Set up an intelligent chatbot that can answer developers' questions based on a knowledge base.
+link: https://www.societegenerale.com/
 ---
