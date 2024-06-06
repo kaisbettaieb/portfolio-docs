@@ -1,7 +1,7 @@
 ---
 title: My Second blog post
 description: Trying to create a simple post to be rendered in my React Website
-date: 2024-05-31
+date: 2024-06-05
 draft: false
 slug: second-blog-post
 tags:
