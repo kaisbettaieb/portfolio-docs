@@ -3,7 +3,7 @@ role: Software Engineer
 company: EuraNova
 startDate: 2027-05-01
 endDate: 2017-10-01
-draft: true
+draft: false
 href: #
 slug: mission-euranova
 imgLink: /assets/sg.jpg
