@@ -25,4 +25,5 @@ tasks:
   - Developed lambda functions to extract, classify and load github repositories issues.
   -  Maintained CI/CD pipelines.
 description: Implement a tool to extract company logos from video and image streams and store them in a database in matrix format.
+link: https://euranova.eu/
 ---
